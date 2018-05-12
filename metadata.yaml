@@ -1,0 +1,31 @@
+_repo: Servants-of-the-Guns_37628
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37628-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Jeffery, Jeffery E. (Jeffery Eardley)
+    aliases:
+    - Jeffery, Jeffery Eardley
+    - Marston, Jeffery Eardley
+    birthdate: 1887
+    gutenberg_agent_id: '38959'
+    url: http://www.gutenberg.org/2009/agents/38959
+description: ''
+gutenberg_issued: '2011-10-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37628'
+  lccn: '18011278'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Personal narratives, British'
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Prisoners and prisons'
+- !lcsh 'Great Britain. Army -- Artillery'
+title: Servants of the Guns
+url: http://www.gutenberg.org/ebooks/37628
